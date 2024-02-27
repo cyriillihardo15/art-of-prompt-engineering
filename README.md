@@ -4,4 +4,4 @@
 # Info 
 Name: Cyriil Lihardo Purba\
 Program: IBM Advance AI\
-Personal Mentor : Siska\
+Personal Mentor : Siska
